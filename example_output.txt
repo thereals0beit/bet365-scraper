@@ -1,0 +1,199 @@
+Session ID: B8415D7A5AB94FFFA6D732DE4D092951000003
+Pow HTTPS Host: https://premlp-pt11.365lpodds.com:443
+Pow Random Number: 3196027854
+string(20) "100M39-9D6ZO2nkB/8q"
+Constant: 100
+Pow Session Id: M39-9D6ZO2nkB/8q
+Trying for ID: 15268749882C1_1_3
+array(20) {
+  ["team1"]=>
+  array(11) {
+    ["IGoal"]=>
+    string(1) "0"
+    ["ICorner"]=>
+    string(1) "1"
+    ["IYellowCard"]=>
+    string(1) "0"
+    ["IRedCard"]=>
+    string(1) "0"
+    ["IThrowIn"]=>
+    string(1) "-"
+    ["IFreeKick"]=>
+    string(1) "-"
+    ["IGoalKick"]=>
+    string(1) "-"
+    ["IPenalty"]=>
+    string(1) "0"
+    ["ISubstitution"]=>
+    string(1) "0"
+    ["name"]=>
+    string(10) "Campobasso"
+    [""]=>
+    string(2) "18"
+  }
+  ["team2"]=>
+  array(11) {
+    ["IGoal"]=>
+    string(1) "0"
+    ["ICorner"]=>
+    string(1) "4"
+    ["IYellowCard"]=>
+    string(1) "0"
+    ["IRedCard"]=>
+    string(1) "0"
+    ["IThrowIn"]=>
+    string(1) "-"
+    ["IFreeKick"]=>
+    string(1) "-"
+    ["IGoalKick"]=>
+    string(1) "-"
+    ["IPenalty"]=>
+    string(1) "0"
+    ["ISubstitution"]=>
+    string(1) "0"
+    ["name"]=>
+    string(8) "Matelica"
+    [""]=>
+    string(2) "23"
+  }
+  ["Fulltime Result"]=>
+  array(3) {
+    ["Campobasso"]=>
+    string(5) "20/21"
+    ["Draw"]=>
+    string(4) "11/5"
+    ["Matelica"]=>
+    string(4) "11/4"
+  }
+  ["Double Chance"]=>
+  array(3) {
+    ["Campobasso or Draw"]=>
+    string(3) "1/4"
+    ["Matelica or Draw"]=>
+    string(4) "8/11"
+    ["Campobasso or Matelica"]=>
+    string(3) "1/3"
+  }
+  ["Half Time Result"]=>
+  array(3) {
+    ["Campobasso"]=>
+    string(5) "21/10"
+    ["Draw"]=>
+    string(3) "4/6"
+    ["Matelica"]=>
+    string(3) "9/2"
+  }
+  ["1st Goal"]=>
+  array(3) {
+    ["Campobasso"]=>
+    string(3) "4/6"
+    ["No 1st Goal"]=>
+    string(3) "5/1"
+    ["Matelica"]=>
+    string(3) "7/4"
+  }
+  ["Match Goals"]=>
+  array(2) {
+    ["Over "]=>
+    string(4) "11/8"
+    ["Under "]=>
+    string(4) "8/15"
+  }
+  ["First Half Goals"]=>
+  array(2) {
+    ["Over"]=>
+    string(3) "5/6"
+    ["Under"]=>
+    string(3) "5/6"
+  }
+  ["Asian Handicap (0-0)"]=>
+  array(2) {
+    ["Campobasso -0.5"]=>
+    string(3) "1/1"
+    ["Matelica +0.5"]=>
+    string(3) "4/5"
+  }
+  ["Goal Line (0-0)"]=>
+  array(2) {
+    ["Over 2"]=>
+    string(5) "17/20"
+    ["Under 2"]=>
+    string(5) "19/20"
+  }
+  ["1st Half Asian Handicap (0-0)"]=>
+  array(2) {
+    ["Campobasso 0.0,-0.5"]=>
+    string(4) "11/8"
+    ["Matelica 0.0,+0.5"]=>
+    string(5) "11/20"
+  }
+  ["1st Half Goal Line (0-0)"]=>
+  array(2) {
+    ["Over 0.5"]=>
+    string(5) "19/20"
+    ["Under 0.5"]=>
+    string(5) "17/20"
+  }
+  ["Half Time/Full Time"]=>
+  array(3) {
+    ["Campobasso - Campobasso"]=>
+    string(4) "11/4"
+    ["Campobasso - Draw"]=>
+    string(4) "18/1"
+    ["Campobasso - Matelica"]=>
+    string(4) "40/1"
+  }
+  ["Half Time Correct Score"]=>
+  array(1) {
+    ["1-0"]=>
+    string(4) "11/4"
+  }
+  ["Final Score"]=>
+  array(1) {
+    ["1-0"]=>
+    string(3) "9/2"
+  }
+  ["3-Way Handicap"]=>
+  array(3) {
+    ["Campobasso "]=>
+    string(4) "13/5"
+    ["Draw (Matelica )"]=>
+    string(4) "13/5"
+    ["Matelica "]=>
+    string(4) "8/11"
+  }
+  ["Draw No Bet"]=>
+  array(2) {
+    ["Campobasso"]=>
+    string(3) "4/9"
+    ["Matelica"]=>
+    string(4) "13/8"
+  }
+  ["Last Team to Score"]=>
+  array(3) {
+    ["Campobasso"]=>
+    string(3) "4/6"
+    ["No Goals"]=>
+    string(3) "5/1"
+    ["Matelica"]=>
+    string(3) "7/4"
+  }
+  ["Goals Odd/Even"]=>
+  array(2) {
+    ["Odd"]=>
+    string(5) "10/11"
+    ["Even"]=>
+    string(3) "4/5"
+  }
+  ["To Win 2nd Half"]=>
+  array(3) {
+    ["Campobasso"]=>
+    string(3) "6/5"
+    ["Draw"]=>
+    string(3) "6/4"
+    ["Matelica"]=>
+    string(4) "11/4"
+  }
+}
+bool(false)
+Script took 24.733845949173 seconds!
